@@ -1,0 +1,12 @@
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\obj\Debug\ImportWP.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\ImportWP.exe.config
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\ImportWP.exe
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\ImportWP.pdb
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\AutoMapper.dll
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\Wordpress.Xml.Rpc.dll
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\WordPressSharp.dll
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\bin\Debug\AutoMapper.xml
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\obj\Debug\ImportWP.exe
+C:\Users\Alexey\documents\visual studio 2017\Projects\ImportWP\ImportWP\obj\Debug\ImportWP.pdb
